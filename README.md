@@ -1,4 +1,4 @@
-# Mis Proyectos de Código por Pasión
+# Mis proyectos de código para pasar el rato.
 
 ¡Saludos! En este repositorio comparto algunos proyectos de código que he creado en mi tiempo libre. Mi intención es que puedan ser útiles para otros entusiastas y desarrolladores. ¡Cualquier feedback es bienvenido!
 
