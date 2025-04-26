@@ -7,7 +7,7 @@ Greetings\! In this repository, I'm sharing some code projects I've created in m
 ## Repository Contents:
 
 ### 1. Custom IR Controller RM-SCEX1 for M5StickC PLUS2 / ESP32
-`Arduino` `C++` `ESP32`
+`Arduino` `C++` `ESP32` `Arduino IDE`
 
 <img src="https://github.com/0ctopvs/Jefftronic/blob/main/IR%20Controller%20RM-SCEX1%20-%20M5StickC%20PLUS2%20ESP3/image.png?raw=true" width="200">
 
