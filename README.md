@@ -8,7 +8,7 @@
 <img src="https://github.com/0ctopvs/Jefftronic/blob/main/IR%20Controller%20RM-SCEX1%20-%20M5StickC%20PLUS2%20ESP3/image.png?raw=true" width="200">
 Este proyecto consiste en un control remoto infrarrojo diseñado principalmente para el M5StickC PLUS2, aunque puede adaptarse a otras placas ESP32 que cuenten con una pantalla. La interfaz visual en la pantalla del ESP32 permite explorar las diferentes funciones del control y ejecutar el envío de la señal IR correspondiente.
 
-**¿Por qué este proyecto?** La motivación principal surgió de la dificultad para encontrar y el elevado costo del control remoto original RM-SCEX1 para ciertos equipos de sonido SONY. Esta solución permite utilizar códigos LIRC disponibles en línea para emular sus funciones.
+**¿Por qué este proyecto?** La motivación principal surgió de la dificultad para encontrar y el elevado costo del control remoto original RM-SCEX1 para ciertos equipos de sonido  como el CMT-EX1. Esta solución permite utilizar códigos LIRC disponibles en línea para emular sus funciones.
 
 **Instrucciones de Uso:**
 
