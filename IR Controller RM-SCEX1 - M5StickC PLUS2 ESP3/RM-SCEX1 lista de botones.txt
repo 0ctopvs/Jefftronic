@@ -1,0 +1,37 @@
+Lista de compatibilidad RM-SCEX1
+100%
+
+Open/Close - 🟢
+Display - 🟢
+On/Off - 🟢
+CD - 🟢
+Play/Pause - 🟢
+Stop - 🟢
+Tuner/band-🟢
+Prev- 🟢
+Next-🟢
+Function-🟢
+Sback-🟢
+Sforward-🟢
+Play mode-🟢
+Repeat - 🟢
+DSG - 🟢
+Tuning Mode-🟢
+Stereo/Mono-🟢
+Surround - 🟢
+Memory - 🟢
+Enter - 🟢
+Timer Set - 🟢
+Timer Select - 🟢
+Sleep - 🟢
++ Vol - 🟢
+- Vol - 🟢
+
+Botones adicionales - no en el control original:
+
++ Trebel - 🟢
+- Trebel - 🟢
++ Bass - 🟢
+- Bass - 🟢
+Forward - 🟢
+
