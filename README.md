@@ -2,6 +2,8 @@
 
 Greetings\! In this repository, I'm sharing some code projects I've created in my free time. My intention is that they might be useful for other enthusiasts and developers. Any feedback is welcome\!
 
+*You'll probably find comments and content in both Spanish and English.* / *Probablemente encuentres comentarios y contenido en español e ingles.*
+
 ## Repository Contents:
 
 ### 1. Custom IR Controller RM-SCEX1 for M5StickC PLUS2 / ESP32
