@@ -7,7 +7,10 @@ Greetings\! In this repository, I'm sharing some code projects I've created in m
 ## Repository Contents:
 
 ### 1. Custom IR Controller RM-SCEX1 for M5StickC PLUS2 / ESP32
+`Arduino` `C++` `ESP32`
+
 <img src="https://github.com/0ctopvs/Jefftronic/blob/main/IR%20Controller%20RM-SCEX1%20-%20M5StickC%20PLUS2%20ESP3/image.png?raw=true" width="200">
+
 This project consists of an infrared remote control designed primarily for the M5StickC PLUS2, although it can be adapted to other ESP32 boards that have a screen. The visual interface on the ESP32 screen allows you to explore the different functions of the control and execute the sending of the corresponding IR signal.
 
 **Why this project?** The main motivation arose from the difficulty in finding and the high cost of the original RM-SCEX1 remote control for certain sound equipment, such as the CMT-EX1. This solution allows the use of LIRC codes available online to emulate its functions.
